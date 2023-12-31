@@ -1,6 +1,6 @@
 Healthy vegan weight loss for the truly lazy
 
-If you want to lose weight in a low effort way while maintaining muscle mass and remaining vegan, this is for you.
+If you want to lose weight in a low effort way while maintaining muscle mass and remaining vegan, this is for you. This guide intends to be formulaic, which decreases
 
 Methods:
 * Eating 100+ grams of protein a day
