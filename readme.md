@@ -45,20 +45,21 @@ Fava bean tofu comes out on top in both measures, by a lot, but variety is impor
 Remember, use the whole package each time. Cut it all up and put it in the pot.
 
 ### fillers
-Then we add 200g of "filler", which is any combination of grains, legumes, or the "pseudo-cereal" quinoa. 
-
-| Food           | Calories / g | Protein / cal |
-|----------------|--------------|---------------|
-| Lentils        |    3.54      |   0.071       |
-| Black beans    |    3.33      |   0.067       |
-| White beans    |    3.43      |   0.067       |
-| Chick peas     |    3.71      |   0.054       |
-| Protein oats   |    3.96      |   0.047       |
-| Wild rice      |    3.67      |   0.042       |
-| Quinoa         |    3.78      |   0.035       |
+Then we add 200g of "filler", which is any combination of grains, legumes, or the "pseudo-cereal" quinoa. 200g is part of "low effort". I don't want to have to remember specific weights for every filler so I just do 200g total.
 
 
-200g is part of "low effort". I don't want to have to remember specific weights for every filler so I just do 200g total.
+| Food           | Calories / g | Protein / cal | Liquid required              | Cook time            |
+|----------------|--------------|---------------|------------------------------|----------------------|
+| Lentils        |    3.54      |   0.071       | 1 cup per 200g dried lentils | No soak, 20+ min     |
+| Black beans    |    3.33      |   0.067       | 2 cups per 200g dried beans  | 2 hour soak, 40+ min |
+| White beans    |    3.43      |   0.067       | 2 cups per 200g dried beans  | 8 hour soak, 40+ min |
+| Chick peas     |    3.71      |   0.054       | 2 cups per 200g dried beans  | 8 hour soak, 40+ min |
+| Protein oats   |    3.96      |   0.047       | 2 cups per 200g dried oats   | No soak, 40+ min     |
+| Wild rice      |    3.67      |   0.042       | not sure yet                 | No soak, 40+ min     |
+| Quinoa         |    3.78      |   0.035       | 1 cup per 200g dried quinoa  | No soak, 10-20 min   |
+
+Lentils are the only thing you can pair with quinoa based on cook time. Lentils can go longer than 20 min, and quinoa can go up to 20 min.
+
 
 ### flavor combo
 Flavor combos are where you can put in as much or as little work as you want. There are a few things to always do:
