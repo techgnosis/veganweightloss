@@ -20,7 +20,7 @@ There's no meat or dairy in any of this guide. Keeping vegan has the added benef
 
 ## the formula
 There are no "recipes" in this guide. This guide is just a formula for throwing together healthy food
-1. Pick a protein, and use the whole package. Using the whole package means you don't have to put anything in the fridge or weigh out the portion
+1. Pick a protein
 2. Pick one or two fillers
 3. Pick a flavor combo
 
