@@ -24,24 +24,39 @@ There are no "recipes" in this guide. This guide is just a formula for throwing 
 2. Pick one or two fillers
 3. Pick a flavor combo
 
+### ratios
+The key to picking foods is to look at ratios. The two ratios that matter are:
+1. Calories per gram of food. The higher this ratio is, the more "energetically dense" the food is. Lower density foods will be more satiating because the portions will be larger for the same amount of calories.
+2. Grams of protein per calorie. You want as much protein as possible in exchange for the calories.
+
+
 
 ### pick a protein
-Where do we get our protein? We look for foods that have a high protein/calorie ratio. I stick to three, in order of highest to lowest protein ratio:
-1. Fava bean tofu
-1. Seitan
-1. Soy tofu and tempeh are usually close enough that you can take your pick
+There are countless protein options but my favorites are in this table
+
+| Food           | Calories / g | Protein / cal |
+|----------------|--------------|---------------|
+| Fava bean tofu |    0.82      |   0.229       |
+| Seitan         |    1.58      |   0.200       |
+| Tempeh         |    1.90      |   0.113       |
+
+Fava bean tofu comes out on top in both measures, by a lot, but variety is important.
 
 Remember, use the whole package each time. Cut it all up and put it in the pot.
 
 ### fillers
-Then we add 200g of "filler", which is any combination of grains, legumes, or the "pseudo-cereal" quinoa. The calorie content of 200g of any items in this list are somewhere between 650-800 so don't worry too much about calories, just pick the ones you want to eat. If you pick a lower protein ratio filler, pick a higher ratio protein.  In order of highest protein/calorie ratio:
-1. Lentils
-1. Black beans
-1. White beans
-1. Chick peas / Garbanzo beans
-1. Protein oats
-1. North American wild rice
-1. Quinoa
+Then we add 200g of "filler", which is any combination of grains, legumes, or the "pseudo-cereal" quinoa. 
+
+| Food           | Calories / g | Protein / cal |
+|----------------|--------------|---------------|
+| Lentils        |    3.54      |   0.071       |
+| Black beans    |    3.33      |   0.067       |
+| White beans    |    3.43      |   0.067       |
+| Chick peas     |    3.71      |   0.054       |
+| Protein oats   |    3.96      |   0.047       |
+| Wild rice      |    3.67      |   0.042       |
+| Quinoa         |    3.78      |   0.035       |
+
 
 200g is part of "low effort". I don't want to have to remember specific weights for every filler so I just do 200g total.
 
