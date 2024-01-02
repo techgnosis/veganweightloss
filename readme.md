@@ -1,8 +1,8 @@
 # healthy vegan weight loss for the truly lazy
-If you want to lose weight in a low effort way while maintaining muscle mass and being vegan, this is for you. 
+If you want to **lose weight** in a **low effort** way while **maintaining muscle mass** and being **vegan**, this is for you. 
 
 ### lose weight
-This guide focuses a lot on proteon. Protein is the most satiating of the macronutrients so it helps you feel full for longer. It also has a high "thermic effect of food", which means it takes more energy to digest than carbs or fats.
+This guide focuses a lot on protein. Protein is the most satiating of the macronutrients so it helps you feel full for longer. It also has a high "thermic effect of food", which means it takes more energy to digest than carbs or fats.
 
 ### low effort
 I take many deliberate steps to keep the workload low during prep, cooking, and cleanup.
@@ -32,13 +32,13 @@ The key to picking foods is to look at ratios. The two ratios that matter are:
 
 
 ### pick a protein
-There are countless protein options but my favorites are in this table
+There are countless protein options but my favorites are:
 
-| Food           | Calories / g | Protein / cal |
-|----------------|--------------|---------------|
-| Fava bean tofu |    0.82      |   0.229       |
-| Seitan         |    1.58      |   0.200       |
-| Tempeh         |    1.90      |   0.113       |
+| Food           | Calories / g | Protein / cal | Example |
+|----------------|--------------|---------------|---------|
+| Fava bean tofu |    0.82      |   0.229       |[Big Mountain](https://bigmountainfoods.com/products/soy-free-tofu)|
+| Seitan         |    1.58      |   0.200       |[Uptons](https://veganessentials.com/products/upton-s-naturals-traditional-seitan)|
+| Tempeh         |    1.90      |   0.113       |[Lightlife](https://lightlife.com/product/original-tempeh/)|
 
 Fava bean tofu comes out on top in both measures, by a lot, but variety is important.
 
@@ -66,10 +66,14 @@ Flavor combos are where you can put in as much or as little work as you want. Th
 1. Salt generously. Salt is very important, do not be shy. Not just a pinch. Put in a handful.
 2. Use broth as your liquid. If your broth is salty, add less salt.
 
+If you want to stop there, then just rely on condiments. Be careful with oil based condiments since the calories can add up quicker than you think.
+
+If you want to keep going, here are some flavor combos that work for me. 
+
 
 #### Combo 1
-* 3 tbsp tomato paste
-* 2 tbsp harissa
+* 15g tomato paste
+* 10g harissa
 * 1 tbsp turmeric
 * 1 yellow onion
 * 1 bell pepper
