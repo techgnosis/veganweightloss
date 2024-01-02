@@ -22,7 +22,7 @@ There's no meat or dairy in any of this guide. Keeping vegan has the added benef
 There are no "recipes" in this guide. This guide is just a formula for throwing together healthy food
 1. Pick a protein
 2. Pick one or two fillers
-3. Pick a flavor combo
+3. Add flavor
 
 ### ratios
 The key to picking foods is to look at ratios. The two ratios that matter are:
@@ -61,32 +61,32 @@ Then we add 200g of "filler", which is any combination of grains, legumes, or th
 Lentils are the only thing you can pair with quinoa based on cook time. Lentils can go longer than 20 min, and quinoa can go up to 20 min.
 
 
-### flavor combo
-Flavor combos are where you can put in as much or as little work as you want. There are a few things to always do:
-1. Salt generously. Salt is very important, do not be shy. Not just a pinch. Put in a handful.
-2. Use broth as your liquid. If your broth is salty, add less salt.
+### flavor
+Flavor is where you can put in as much or as little work as you want. There are a few things to always do:
+* Salt generously. Salt is very important, do not be shy. Not just a pinch. Put in a handful.
+* Use broth or bouillon as your liquid. If your broth is salty, add less salt.
 
 If you want to stop there, then just rely on condiments. Be careful with oil based condiments since the calories can add up quicker than you think.
 
-If you want to keep going, here are some flavor combos that work for me. 
+If you want to keep going, here are two tips for adding flavor
+* Include one vegetable.
+* Include something sweet. The vegetable and the sweet could be the same, like carrots.
+
+Here are some flavor combos that work for me
 
 
 #### Combo 1
-* 15g tomato paste
-* 50g harissa
+* 25g tomato paste
+* 40g harissa
 * 5g turmeric
 * 1 yellow onion
-* 1 bell pepper
 * As much garlic as you want
-  * Tip for the truly lazy, buy a jar of crushed garlic
 * Handful of greens
-  * Tip for the truly lazy, buy frozen greens or canned greens
 * Handful of golden raisins
 
 #### Combo 2 (untested, no measurements)
 * coconut milk
 * curry paste
-* greens
 * ginger
 * carrots
 * vegan fish sauce
