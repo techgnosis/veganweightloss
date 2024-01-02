@@ -73,12 +73,14 @@ If you want to keep going, here are some flavor combos that work for me.
 
 #### Combo 1
 * 15g tomato paste
-* 10g harissa
-* 1 tbsp turmeric
+* 50g harissa
+* 5g turmeric
 * 1 yellow onion
 * 1 bell pepper
 * As much garlic as you want
+  * Tip for the truly lazy, buy a jar of crushed garlic
 * Handful of greens
+  * Tip for the truly lazy, buy frozen greens or canned greens
 * Handful of golden raisins
 
 #### Combo 2 (untested, no measurements)
