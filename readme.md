@@ -53,7 +53,7 @@ Then we add 200g of "filler", which is any combination of grains, legumes, or th
 | Lentils        |    3.54      |   0.071       | 1 cup per 200g dry lentils   | No soak, 20+ min     |
 | Black beans    |    3.33      |   0.067       | 2 cups per 200g dry beans    | 2 hour soak, 40+ min |
 | White beans    |    3.43      |   0.067       | 2 cups per 200g dry beans    | 8 hour soak, 40+ min |
-| Chick peas     |    3.71      |   0.054       | 2 cups per 200g dry beans    | 8 hour soak, 40+ min |
+| Chickpeas      |    3.71      |   0.054       | 2 cups per 200g dry beans    | 8 hour soak, 40+ min |
 | Protein oats   |    3.96      |   0.047       | 2 cups per 200g dry oats     | No soak, 40+ min     |
 | Wild rice      |    3.67      |   0.042       | 1 cup per 200g dry rice      | No soak, 40+ min     |
 | Quinoa         |    3.78      |   0.035       | 1 cup per 200g dry quinoa    | No soak, 10-20 min   |
